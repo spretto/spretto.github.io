@@ -3,4 +3,4 @@ pygments: true
 markdown: kramdown
 url: http://spretto.github.io
 title: Team Updates
-paginate: 5
+paginate: 2
