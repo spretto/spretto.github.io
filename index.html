@@ -5,7 +5,7 @@ layout: posts
         <li>
             <time>{{ post.date | date_to_string }}</time>
             <h3>{% if page.link %}<a href="{{ post.link }}">{{ post.title }}</a> *{% else %}<a href="{{ post.url }}">{{ post.title }}</a>{% endif %}</h3>
-            {{ post.content }}
+            {{ post.excerpt }}
         </li>
         {% endfor %}
     </ul>
