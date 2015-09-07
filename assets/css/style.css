@@ -9,9 +9,11 @@
 
 body{
     line-height: 1.6em;
-    font-family: Arial,sans-serif;
+    font-family: 'Lato', arial, sans-serif;
     color: #444;
     padding-top: 20px
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 a{
@@ -35,7 +37,9 @@ nav a{
   font-size: 90%;
 }
 header{
-    font-family: 'Libre Baskerville', Georgia;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #17baef;
     margin: 10px 0;
     padding: 20px;
     border-bottom: 1px solid #F4F6F7;
