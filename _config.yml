@@ -2,5 +2,5 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://spretto.github.io
-title: Blog
+title: Team Updates
 paginate: 5
