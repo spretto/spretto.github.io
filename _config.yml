@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://spretto.github.io
+title: Blog
+paginate: 5
